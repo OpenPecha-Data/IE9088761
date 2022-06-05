@@ -1,0 +1,63 @@
+id: IE9088761
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-05T20:00:17.437156'
+last_modified: '2022-06-05T20:00:17.437161'
+parser: null
+source_metadata:
+  title: Shechen Rabjam Rinpoche Series
+  language: de
+  description: 'Texts by and about Jigme Chökyi Senge (''jigs med chos kyi seng+ge,
+    b. 1966), the seventh Rabjam Rinpoche of Shechen Monastery:'
+  volume:
+    f2F62:
+      title: Calling the Guru from Afar
+      base_file: f2F62.txt
+      order: 1
+      parent: Calling the Guru from Afar
+    f25F8:
+      title: A Supplication for the Longevity of the Peerless and Sublime Tulku, Dzongsar
+        Khyentse, Thupten Chökyi Gyatso
+      base_file: f25F8.txt
+      order: 2
+      parent: Long Life Prayers
+    f5ADA:
+      title: Prayer for the Long Life of Shechen Rabjam Rinpoche
+      base_file: f5ADA.txt
+      order: 3
+      parent: Long Life Prayers
+    f4D6F:
+      title: A Prayer to Kyabje Dilgo Khyentse Rinpoche
+      base_file: f4D6F.txt
+      order: 4
+      parent: Prayers
+    f8957:
+      title: 'The Beat of the Vajra Drum: A Prayer'
+      base_file: f8957.txt
+      order: 5
+      parent: Prayers
+    fC0D3:
+      title: 'The Lotus of Faith: A Supplication to the Successive Lives of Shechen
+        Rabjam'
+      base_file: fC0D3.txt
+      order: 6
+      parent: Prayers
+    f2521:
+      title: 'The Potent Nectar of Accomplishment: A Prayer and Supplication to the
+        Vidyādhara Gurus of the Three Lineages'
+      base_file: f2521.txt
+      order: 7
+      parent: Prayers
+    fE488:
+      title: A Prayer for the Swift Return of the Fourth Kyabje Dodrupchen Rinpoche
+      base_file: fE488.txt
+      order: 8
+      parent: Swift Rebirth Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
